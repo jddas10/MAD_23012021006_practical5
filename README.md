@@ -33,8 +33,8 @@ Navigation between both screens is implemented using **Navigation Compose**.
 
 | Screenshot | Description |
 |-----------|-------------|
-| <p align="center"/><img src="screenshots/loginSc.jpeg" alt="Login Screen" width="250"/> | The **Login Screen** where the user enters email & password and navigates to Register. |
-| <p align="center"/><img src="screenshots/regiSc.jpeg" alt="Register Screen" width="250"/> | The **Registration Screen** where the user enters personal details and creates an account. |
+| <p align="center"/><img src="https://github.com/jddas10/MAD_23012021006_practical5/blob/master/p5_screenshots/Screenshot%202025-11-19%20033847.png" width="250"/> | The **Login Screen** where the user enters email & password and navigates to Register. |
+| <p align="center"/><img src="https://github.com/jddas10/MAD_23012021006_practical5/blob/master/p5_screenshots/Screenshot%202025-11-19%20033904.png" width="250"/> | The **Registration Screen** where the user enters personal details and creates an account. |
 
 ---
 
